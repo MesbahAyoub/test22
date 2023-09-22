@@ -9,9 +9,9 @@ This is a temporary script file.
 a = input ('Saisir votre valeur :')
 a = float(a)
 b=3
-d=a+b
-if d>3 :
+f=1
+d=a+b+f
+if d>4 :
     print('a est superieur 0')
 else :
     print('d est egale 0 ')      
-
